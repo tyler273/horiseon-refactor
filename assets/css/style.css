@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* ---------------- HEADER / NAVIGATION BAR ------------------ */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,6 +42,8 @@ p {
     font-size: 16px;
 }
 
+/* ------------------- HERO ------------------- */
+
 .hero img {
     height: 800px;
     width: 100%;
@@ -49,6 +51,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* -------------------- CONTENT SECTION ------------ */
 
 .float-left {
     float: left;
@@ -65,6 +69,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* -------------------- ASIDE ----------------------- */
 
 .benefits {
     margin-right: 20px;
@@ -152,6 +158,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* ---------------------- FOOTER ---------------------- */
 
 footer{
     padding: 30px;
