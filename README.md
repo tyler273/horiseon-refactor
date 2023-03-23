@@ -1,4 +1,4 @@
-# horiseon-refactor
+# HORISEON REFACTOR
 
 ## Description
 
